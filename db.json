@@ -1,0 +1,33 @@
+{
+    "empleados": [
+
+        {
+            "cedula": "0912345432",
+            "nombres":    "JUAN ALFREDO", 
+            "apellidos":    "PEREZ NUQUEZ",
+            "correo":    "Sujuaal@gmail.com"
+        },
+
+        {
+            "cedula": "0967565432",
+            "nombres":    "ALBA LORENA", 
+            "apellidos":    "PIRUA TUA",
+            "correo":    "alblorpir@hotmail.com"
+        },
+
+        {
+            "cedula": "0856432120",
+            "nombres":    "CARLOS ALFREDO", 
+            "apellidos":    "LOPEZ GOMEZ",
+            "correo":    "carlop@hotmail.com"
+        },
+
+        {
+            "cedula": "0987879806",
+            "nombres":    "ANA MARIA", 
+            "apellidos":    "BERMEO PIA",
+            "correo":    "anma@hotmail.com"
+        }
+
+    ]
+}
